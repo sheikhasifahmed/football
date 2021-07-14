@@ -1,7 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
-
 body {
   background-color: azure;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 }
 header {
   display: flex;
@@ -276,9 +275,6 @@ footer img {
     justify-content: center;
     padding: 0;
     grid-row-gap: 15px;
-  }
-  .plyer-details {
-    width: 100%;
   }
 
   footer {
