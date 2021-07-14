@@ -56,8 +56,10 @@ p {
   text-align: left;
   color: #6c6c6c;
 }
-.fa-star {
-  color: rgb(248, 214, 24);
+#btn-submit {
+  background-color: rgb(102, 102, 219);
+  color: azure;
+  margin: 0 40%;
 }
 footer {
   display: flex;
