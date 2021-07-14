@@ -1,6 +1,6 @@
 body {
   background-color: azure;
-  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 header {
   display: flex;
